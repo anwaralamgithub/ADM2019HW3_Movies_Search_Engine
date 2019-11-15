@@ -146,11 +146,11 @@ Moving forward with increasing length of subsequence (sseq) and verifying the ab
 <img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG5.jpg" height=430 
 </p>
 
-------
+________________________________________________________________________________________________________________________
 <p align="left">
 <img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG6.jpg" height=430 
 </p>
------- 
+
 #### IN: 
 #### Creating a table of rows and column equal to len of string s 
 ```html
