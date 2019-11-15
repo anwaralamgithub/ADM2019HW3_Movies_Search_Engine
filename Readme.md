@@ -11,8 +11,9 @@ First of all understand the problem, let’s suppose the sequence is “anwarala
 
  DST Data Structure Table: It’s a 2 dimensional table with rows and column equal to the length of the sequence
  
- ![](ADM2019HW3_Movies_Search_Engine/FIG1.jpg)
- 
+<p align="left">
+<img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG1.jpg" height=430 
+</p>
  
 #### In: 
 ```html
@@ -43,9 +44,9 @@ DST[5][5] = ‘a’ = 1	DST[6][6] = ‘l’ = 1	DST[7][7] = ‘a’ = 1	DST[8][8
 ```
 As its one character so it same character, we were consider TRUE as 1
 
-![alt text]('FIG for Ques4/FIG1.jpg')
-
-
+<p align="left">
+<img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG2.jpg" height=430 
+</p>
 
 #### In: 
 ```html
@@ -77,13 +78,9 @@ So when sseq = 2, i with a loop starting with 0 and j initiate its position at j
 DST[0][1] = "an" = 1	DST[1][2] = "nw" = 1	DST[2][3] = "wa" = 1	DST[3][4] = "ar" = 1	DST[4][5] = "ra" = 1
 DST[5][6] = "al" = 1	DST[6][7] = "la" = 1	DST[7][8] = "am" = 1
 ```
-
-
-
-
-
-
-
+<p align="left">
+<img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG3.jpg" height=430 
+</p>
 
 #### IN:
 ```html
@@ -119,6 +116,10 @@ DST[0][2] = "anw" = 1	DST[1][3] = "nwa" = 1	DST[2][4] = "war" = 1	DST[3][5] = "a
 DST[4][6] = "ral" = 1	DST[5][7] = "ala" = 3	DST[6][8] = "lam" = 1
 
 ```
+<p align="left">
+<img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG4.jpg" height=430 
+</p>
+ 
 #### IN:
 ```html
 elif seq[i] == seq[j]:
@@ -141,8 +142,15 @@ else:
 ```
 Moving forward with increasing length of subsequence (sseq) and verifying the above condition, we come across the below Data structure
 
+<p align="left">
+<img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG5.jpg" height=430 
+</p>
 
 ------
+<p align="left">
+<img src="https://github.com/anwaralamgithub/ADM2019HW3_Movies_Search_Engine/blob/images/FIG6.jpg" height=430 
+</p>
+------ 
 #### IN: 
 #### Creating a table of rows and column equal to len of string s 
 ```html
