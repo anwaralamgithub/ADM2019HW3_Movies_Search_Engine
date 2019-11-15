@@ -11,7 +11,7 @@ First of all understand the problem, let’s suppose the sequence is “anwarala
 
  DST Data Structure Table: It’s a 2 dimensional table with rows and column equal to the length of the sequence
  
- ![]('anwaralamgithub/ADM-HW3/FIG1.jpg')
+ ![](ADM2019HW3_Movies_Search_Engine/FIG1.jpg)
  
  
 #### In: 
